@@ -14,12 +14,14 @@ I've compiled the projects executed and the tools used in *Modules* section, fol
 
 #### Module 1: Excel
 
-This project analyzes historical data from Kickstarter campaigns to inform a successful crowdfunding strategy for Louise's play, "Fever" using Excel. To determine the best strategy for Louise's crowdfunding campaign, we evaluated 2 key factors: Launch date and monetary goal of the campaign.
-Findings indicate May as the optimal launch month, December as less favorable, and Louise's $10,000 goal aligning with positive success trends. 
+[Link to project: Kickstarter_Analysis_Excel](https://github.com/Li11iana/Kickstarter_Analysis_Excel) 
+ 
+This project analyzes historical data from Kickstarter campaigns to inform a successful crowdfunding strategy for the client's play "Fever" using Excel Pivot Tables. To determine the best strategy for the following factors were evaluated:
+crowdfunding campaign, we evaluated 2 key factors: 
+-	Launch date: To determine if the start date of the campaign had a significant effect on its outcome. 
+-	Goals: The specific amount that is set to be collected could have an impact on the success rate of the campaign. 
+  
+Additional tools: To analyze the data, timestamp dates were transformed into a working date format for Excel using Unix Timestamps converter: https://www.epochconverter.com/
 
- [Link to project: Kickstarter_Analysis_Excel](https://github.com/Li11iana/Kickstarter_Analysis_Excel) 
+#### Module 2: Excel VBA
 
-* 2: Excel VBA
-Stock_analysis_VBA 
-
-* 3: 
