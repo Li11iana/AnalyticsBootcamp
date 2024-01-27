@@ -32,5 +32,6 @@ In a study by Isabella Ferreira et al., it's acknowledged that refactoring, whil
 
 - Additional sources: 
 Isabella Ferreira et al., "The buggy side of code refactoring: understanding the relationship between refactorings and bugs." Proceedings of the 40th International Conference on Software Engineering: Companion Proceedings (ICSE '18).
+https://sumatosoft.com/blog/code-refactoring-meaning-purpose-benefits
 
 #### Module 3: Python
