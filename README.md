@@ -30,7 +30,8 @@ Additional tools: To analyze the data, timestamp dates were transformed into a w
 This project automates stock analysis for several green energy companies in Excel format. The goal is to provide finance advisors and their clients with a tool that facilitates the financial analysis of stocks, eliminating repetitive calculations and ensuring clear and consistent results by using Excel VBA (Visual Basic for Applications). After refactoring the code achieved a 12% reduction in calculated time, making it more efficient, especially for larger datasets.
 In a study by Isabella Ferreira et al., it's acknowledged that refactoring, while reducing operational costs, can introduce new "bugs." However, careful planning and a clear goal can mitigate this risk.
 
-- Additional sources: 
+- Additional sources:
+ 
 Isabella Ferreira et al., "The buggy side of code refactoring: understanding the relationship between refactorings and bugs." Proceedings of the 40th International Conference on Software Engineering: Companion Proceedings (ICSE '18).
 https://sumatosoft.com/blog/code-refactoring-meaning-purpose-benefits
 
