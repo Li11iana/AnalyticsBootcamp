@@ -46,3 +46,20 @@ The Python script simplifies the election analysis and is adaptable for variable
 
 
 #### Module 4: Python Pandas
+
+[Link to project: School Analysis Python Pandas](https://github.com/Li11iana/PyCitySchools) 
+
+This project employs Python Pandas to analyze and compare data from different schools in the city school district. By condensing the data, the project aims to reveal trends in budget and school performance, offering valuable insights for strategic decision-making in the education sector.
+
+Pandas' tools offer a dynamic way to filter, summarize, and compare subsets, enabling both macro and micro-level analysis. Future analyses could include assessing the relationship between student population and budget allocation, providing further insights into the efficiency of budget utilization
+
+
+#### Module 5: Python Matplotlib
+
+[Link to project: Pyber Analysis Python Matplotlib](https://github.com/Li11iana/Pyber_Challenge) 
+
+For this project, Python Pandas and Matplotlib were employed to analyze and visualize ride-sharing data collected by the PyBer app, enabling informed decision-making for the company. The focus was on understanding user behavior differences in rural, suburban, and urban communities to generate actionable business recommendations.
+
+The analysis reveals that urban areas stand out as the primary revenue source for PyBer, underscoring the importance of sustained efforts in these densely populated regions. Simultaneously, untapped potential exists in suburban areas, and the higher average fare per driver in rural regions suggests an opportunity for strategic service expansion, ensuring PyBer's continued growth across diverse community types.
+
+#### Module 6: 
