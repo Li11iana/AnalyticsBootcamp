@@ -36,3 +36,13 @@ Isabella Ferreira et al., "The buggy side of code refactoring: understanding the
 https://sumatosoft.com/blog/code-refactoring-meaning-purpose-benefits
 
 #### Module 3: Python
+
+[Link to project: Election_Analysis_Python](https://github.com/Li11iana/Election_Analysis_Python) 
+
+
+This project involves the analysis of election results for three counties: Denver, Arapahoe, and Jefferson. The data, stored in an Excel file, is processed using Python to automate the election result count and provide a visual summary of relevant data insights, facilitating the work of the election commission.
+
+The Python script simplifies the election analysis and is adaptable for variable input, automatically iterating through data sources with different counties and candidates
+
+
+#### Module 4: Python Pandas
