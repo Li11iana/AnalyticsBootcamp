@@ -99,8 +99,18 @@ By leveraging SQLAlchemy, we connected to and queried the SQLite database, emplo
 
 #### Module 12:  JavaScript
 
+[Link to project: UFOs - Javascript Data Visualization](https://github.com/Li11iana/UFOs)
+
+Using Javascript to generate a dynamic table capable of handling multiple filter criteria simultaneously, enabling the showcasing of UFO sightings information according to user preferences.
+
+The resulting webpage displays UFO sightings information that users can filter based date, city, state, country and shape of the UFO.
 
 #### Module 13: Plotly
+
+[Link to project: Plotly Bacteria Dashboard](https://github.com/Li11iana/UFOs)
+
+Using Plotly data collected from belly-button biological samples, aiming to facilitate the study of Improbable Beef, a synthetic beef manufacturing company. 
+The dashboard created serves a dual purpose: providing accessible bacterial information for volunteers who submitted samples while ensuring privacy and offering demographic insights to researchers at Improbable Beef without compromising confidentiality.
 
 
 #### Module 14: JavaScript and APIs
