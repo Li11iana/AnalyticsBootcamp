@@ -62,4 +62,12 @@ For this project, Python Pandas and Matplotlib were employed to analyze and visu
 
 The analysis reveals that urban areas stand out as the primary revenue source for PyBer, underscoring the importance of sustained efforts in these densely populated regions. Simultaneously, untapped potential exists in suburban areas, and the higher average fare per driver in rural regions suggests an opportunity for strategic service expansion, ensuring PyBer's continued growth across diverse community types.
 
-#### Module 6: 
+#### Module 6: Python APIs
+
+[Link to project: Python APIs and World Wide Weather](https://github.com/Li11iana/World_Weather_Analysis) 
+
+This project leverages the Google Maps and OpenWeatherMap databases to gather weather and lodging details for over 600 randomly generated cities globally. Through a simulated app, users receive travel recommendations based on desired weather conditions, aligning them with the real-time climate in the randomly selected cities. Once users choose preferred destinations, the system generates a travel route to assist in trip planning.
+
+#### Module X
+
+This project utilizes Python and SQLAlchemy to analyze Oahu's weather data stored in the hawaii.sqlite database. The primary goal is to assess temperature trends in June and December to inform business considerations for a surf and ice cream shop in Oahu.
