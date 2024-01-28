@@ -115,8 +115,13 @@ The dashboard created serves a dual purpose: providing accessible bacterial info
 
 #### Module 14: JavaScript and APIs
 
+[Link to project: JS API Earthquake Mapping](https://github.com/Li11iana/Mapping_Earthquakes)
 
 #### Module 15: Tableau
+
+[Link to project: Tableau Bike-sharing](https://github.com/Li11iana/Tableau_Bikesharing)
+
+Using Tableau Public This project delves into the business details of New York City's bike-sharing service, Citi Bikes, aiming to provide insights for establishing a new bike-sharing service in Des Moines, Iowa.
 
 
 #### Module 16: R Statistics
@@ -124,6 +129,9 @@ The dashboard created serves a dual purpose: providing accessible bacterial info
 
 #### Module 17: Big Data
 
+[Link to project: Amazon Vine Big Data Analysis](https://github.com/Li11iana/Amazon_Vine_Analysis)
+
+This big data project involves analyzing customer reviews from Amazon's marketplace in the "Musical Instruments" category. Utilizing AWS and PostgreSQL, the Amazon Vine Program data is explored using PySpark, AWS database, and S3 services
 
 #### Module 18: Supervised Learning
 
