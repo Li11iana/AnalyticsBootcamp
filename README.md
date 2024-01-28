@@ -78,8 +78,50 @@ Utilizing PostgreSQL and pgAdmin, the primary goal of this project is to amalgam
 
 #### Module 8: ETL
 
-[Link to project: Python APIs and World Wide Weather](https://github.com/Li11iana/Pewlett-Hackard-Analysis)
+[Link to project: Crowdfunding ETL](https://github.com/Li11iana/Crowdfunding-ETL)
 
-#### Module X
+https://github.com/Li11iana/Crowdfunding-ETL
+
+#### Module 9: Advance Data Storage Retrieval
+
+[Link to project: Python SQLAlchemy Temperature Analysis](https://github.com/Li11iana/Surfs_up)
 
 This project utilizes Python and SQLAlchemy to analyze Oahu's weather data stored in the hawaii.sqlite database. The primary goal is to assess temperature trends in June and December to inform business considerations for a surf and ice cream shop in Oahu.
+By leveraging SQLAlchemy, we connected to and queried the SQLite database, employing statistical measures such as minimum, maximum, and average to derive meaningful insights. Additionally, we designed a Flask application to visualize the data.
+
+#### Module 10: Data Ethics
+
+
+#### Module 11: Web Scraping and HTML/CSS
+
+
+#### Module 12:  JavaScript
+
+
+#### Module 13: Plotly
+
+
+#### Module 14: JavaScript and APIs
+
+
+#### Module 15: Tableau
+
+
+#### Module 16: R Statistics
+
+
+#### Module 17: Big Data
+
+
+#### Module 18: Supervised Learning
+
+
+#### Module 19: Unsupervised Learning
+
+
+#### Module 20: Neural Networks and Deep Learning Models
+
+#### Project Capstone
+
+
+
