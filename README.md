@@ -67,6 +67,18 @@ The analysis reveals that urban areas stand out as the primary revenue source fo
 [Link to project: Python APIs and World Wide Weather](https://github.com/Li11iana/World_Weather_Analysis) 
 
 This project leverages the Google Maps and OpenWeatherMap databases to gather weather and lodging details for over 600 randomly generated cities globally. Through a simulated app, users receive travel recommendations based on desired weather conditions, aligning them with the real-time climate in the randomly selected cities. Once users choose preferred destinations, the system generates a travel route to assist in trip planning.
+The integration of dynamically generated maps serves as a valuable visual aid, offering users an immersive and informative experience throughout their vacation planning journey.
+
+#### Module 7: SQL
+
+[Link to project: PostgreSQL Pewlett-Hackard Analysis](https://github.com/Li11iana/Pewlett-Hackard-Analysis)
+
+Pewlett-Hackard is confronted with an impending surge of employees nearing retirement, raising concerns about organizational preparedness. This project, conducted using SQL, aims to leverage company database data to furnish essential information for strategizing amidst this imminent staff transition. 
+Utilizing PostgreSQL and pgAdmin, the primary goal of this project is to amalgamate all employee information into a unified database. Subsequently, the analysis seeks to extract details about retiring employees and potential candidates for mentorship.
+
+#### Module 8: ETL
+
+[Link to project: Python APIs and World Wide Weather](https://github.com/Li11iana/Pewlett-Hackard-Analysis)
 
 #### Module X
 
