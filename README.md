@@ -94,6 +94,8 @@ By leveraging SQLAlchemy, we connected to and queried the SQLite database, emplo
 
 #### Module 11: Web Scraping and HTML/CSS
 
+[Link to project: Web scrapping using Beautiful Soup and Splinter](https://github.com/Li11iana/Mission-to-Mars)
+
 
 #### Module 12:  JavaScript
 
