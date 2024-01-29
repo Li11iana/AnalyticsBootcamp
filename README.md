@@ -135,6 +135,11 @@ This big data project involves analyzing customer reviews from Amazon's marketpl
 
 #### Module 18: Supervised Learning
 
+[Link to project: Supervised Learning Credit Risk Analysis](https://github.com/Li11iana/Credit_Risk_Analysis)
+
+The project revolves around predicting loan risk through credit risk analysis, utilizing imbalanced-learn and scikit-learn libraries for Supervised Machine Learning. Given the inherent imbalance in credit risk data, various models and resampling techniques are employed to explore and recommend the most effective model.
+
+The Easy Ensemble Classifier is recommended due to its impressive performance in handling the imbalanced dataset. It exhibited higher recall for both high-risk and low-risk classes, making it a valuable tool for predicting possible risks in credit.
 
 #### Module 19: Unsupervised Learning
 
