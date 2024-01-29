@@ -143,8 +143,13 @@ The Easy Ensemble Classifier is recommended due to its impressive performance in
 
 #### Module 19: Unsupervised Learning
 
+[Link to project: Unsupervised Learning Cryptocurrencies Analysis](https://github.com/Li11iana/Credit_Risk_Analysis)
 
 #### Module 20: Neural Networks and Deep Learning Models
+
+[Link to project: Neural Networks Charity Analysis](https://github.com/Li11iana/Neural_Network_Charity_Analysis)
+
+The project involves implementing TensorFlow Neural Networks and deep learning for data analysis in the context of a nonprofit foundation aiming to predict the success of funding applicants from Alphabet Soups. Neural networks are considered a more optimal tool when regular machine learning classifier models fall short.
 
 #### Project Capstone
 
